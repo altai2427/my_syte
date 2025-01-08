@@ -1,0 +1,35 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+body{
+    background-color: rgb(76, 14, 14)
+}
+h3{
+    color: #868686;
+    text-align: center;
+    size: 40cm;
+    margin: 30px;
+    font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}   
+button {
+    color:beige;
+    size: 500px;
+    margin-left: 47%;
+background-color: bisque;
+font-size: medium;
+font-family: "Pixelify Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+div{
+    margin-top:15%;
+} 
+img{
+   margin-left:44%;
+}
